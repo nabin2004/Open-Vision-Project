@@ -1,0 +1,13 @@
+.main-link {
+  color: #A41034;
+  text-decoration: underline;
+}
+
+Button {
+    background-color: #A41034;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
